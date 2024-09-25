@@ -1,0 +1,248 @@
+# Block TeamViewer
+127.0.0.1   teamviewer.com
+127.0.0.1   www.teamviewer.com
+127.0.0.1   download.teamviewer.com
+127.0.0.1   login.teamviewer.com
+
+# Block AnyDesk
+127.0.0.1   anydesk.com
+127.0.0.1   www.anydesk.com
+127.0.0.1   download.anydesk.com
+127.0.0.1   api.anydesk.com
+127.0.0.1   control.anydesk.com
+
+# Block Chrome Remote Desktop
+127.0.0.1   remotedesktop.google.com
+127.0.0.1   www.remotedesktop.google.com
+127.0.0.1   chromeremotedesktop.appspot.com
+127.0.0.1   chromeremotedesktop.clients6.google.com
+127.0.0.1   chromoting-client.talkgadget.google.com
+127.0.0.1   remotedesktop.googleusercontent.com
+127.0.0.1   chromoting-oauth.talkgadget.google.com
+
+# Block LogMeIn
+127.0.0.1   logmein.com
+127.0.0.1   www.logmein.com
+127.0.0.1   secure.logmein.com
+127.0.0.1   accounts.logme.in
+127.0.0.1   secure.logmeinrescue.com
+127.0.0.1   help.logmein.com
+
+# Block GoToMyPC
+127.0.0.1   gotomypc.com
+127.0.0.1   www.gotomypc.com
+
+# Block Microsoft Remote Desktop
+127.0.0.1   rdp.microsoft.com
+127.0.0.1   remote.desktop.windows.com
+127.0.0.1   ts.microsoft.com
+
+# Block VNC (RealVNC)
+127.0.0.1   realvnc.com
+127.0.0.1   www.realvnc.com
+127.0.0.1   downloads.realvnc.com
+
+# Block Splashtop
+127.0.0.1   splashtop.com
+127.0.0.1   www.splashtop.com
+127.0.0.1   my.splashtop.com
+127.0.0.1   streamer.splashtop.com
+127.0.0.1   relay.splashtop.com
+127.0.0.1   sos.splashtop.com
+
+# Block Parallels Access
+127.0.0.1   parallels.com
+127.0.0.1   www.parallels.com
+
+# Block RemotePC
+127.0.0.1   remotepc.com
+127.0.0.1   www.remotepc.com
+127.0.0.1   remotepc.hostedrdp.com
+127.0.0.1   rdp.remotepc.com
+
+# Block Zoho Assist & Zoho Meeting
+127.0.0.1   zoho.com
+127.0.0.1   assist.zoho.com
+127.0.0.1   assist.zoho.eu
+127.0.0.1   assist.zoho.in
+127.0.0.1   meeting.zoho.com
+127.0.0.1   meet.zoho.eu
+127.0.0.1   meet.zoho.in
+
+# Block DWService
+127.0.0.1   dwservice.net
+127.0.0.1   www.dwservice.net
+127.0.0.1   dwservice.eu
+
+# Block TightVNC
+127.0.0.1   tightvnc.com
+127.0.0.1   www.tightvnc.com
+
+# Block UltraVNC
+127.0.0.1   uvnc.com
+127.0.0.1   www.uvnc.com
+127.0.0.1   download.uvnc.com
+
+# Block TigerVNC
+127.0.0.1   tigervnc.org
+127.0.0.1   www.tigervnc.org
+
+# Block Ammyy Admin
+127.0.0.1   ammyy.com
+127.0.0.1   www.ammyy.com
+127.0.0.1   proxy.ammyy.com
+127.0.0.1   server.ammyy.com
+
+# Block RemoteUtilities
+127.0.0.1   remoteutilities.com
+127.0.0.1   www.remoteutilities.com
+127.0.0.1   server.remoteutilities.com
+127.0.0.1   relay.remoteutilities.com
+
+# Block ConnectWise Control (formerly ScreenConnect)
+127.0.0.1   connectwise.com
+127.0.0.1   www.connectwise.com
+127.0.0.1   control.connectwise.com
+127.0.0.1   cloud.screenconnect.com
+
+# Block DameWare Remote Support
+127.0.0.1   dameware.com
+127.0.0.1   www.dameware.com
+127.0.0.1   downloads.dameware.com
+127.0.0.1   web.dameware.com
+
+# Block ISL Online & ISL Light
+127.0.0.1   islonline.com
+127.0.0.1   www.islonline.com
+127.0.0.1   cloud.islonline.com
+127.0.0.1   isllight.com
+127.0.0.1   www.isllight.com
+127.0.0.1   remote.isllight.com
+
+# Block AeroAdmin
+127.0.0.1   aeroadmin.com
+127.0.0.1   www.aeroadmin.com
+127.0.0.1   connection.aeroadmin.com
+
+# Block Goverlan Reach
+127.0.0.1   goverlan.com
+127.0.0.1   www.goverlan.com
+
+# Block Remote Access Plus (ManageEngine)
+127.0.0.1   manageengine.com
+127.0.0.1   www.manageengine.com
+127.0.0.1   remoteaccessplus.com
+
+# Block Laplink
+127.0.0.1   laplink.com
+127.0.0.1   www.laplink.com
+
+# Block Thinfinity Remote Desktop
+127.0.0.1   thinfinity.com
+127.0.0.1   www.thinfinity.com
+127.0.0.1   thinrdp.com
+127.0.0.1   thinfinity.host
+
+# Block MeshCentral
+127.0.0.1   meshcentral.com
+127.0.0.1   www.meshcentral.com
+
+# Block Supremo Remote Desktop
+127.0.0.1   supremo.com
+127.0.0.1   www.supremo.com
+127.0.0.1   download.supremo.com
+127.0.0.1   connect.supremo.com
+
+# Block BeAnywhere Support Express
+127.0.0.1   beanywhere.com
+127.0.0.1   www.beanywhere.com
+
+# Block FixMe.IT
+127.0.0.1   fixme.it
+127.0.0.1   www.fixme.it
+127.0.0.1   api.fixme.it
+127.0.0.1   relay.fixme.it
+
+# Block Xtralogic
+127.0.0.1   xtralogic.com
+127.0.0.1   www.xtralogic.com
+
+# Block Remotely
+127.0.0.1   remotely.one
+127.0.0.1   www.remotely.one
+127.0.0.1   connect.remotely.one
+127.0.0.1   api.remotely.one
+
+# Block Netop Remote Control
+127.0.0.1   netop.com
+127.0.0.1   www.netop.com
+
+# Block Mikogo
+127.0.0.1   mikogo.com
+127.0.0.1   www.mikogo.com
+127.0.0.1   join.mikogo.com
+127.0.0.1   session.mikogo.com
+
+# Block RemoteToPC
+127.0.0.1   remotetopc.com
+127.0.0.1   www.remotetopc.com
+
+# Block Anyplace Control
+127.0.0.1   anyplace-control.com
+127.0.0.1   www.anyplace-control.com
+
+# Block Jump Desktop
+127.0.0.1   jumpdesktop.com
+127.0.0.1   www.jumpdesktop.com
+127.0.0.1   sync.jumpdesktop.com
+127.0.0.1   connect.jumpdesktop.com
+
+# Block Iperius Remote
+127.0.0.1   iperiusremote.com
+127.0.0.1   www.iperiusremote.com
+127.0.0.1   server.iperiusremote.com
+127.0.0.1   relay.iperiusremote.com
+
+# Block Devolutions Remote Desktop Manager
+127.0.0.1   devolutions.net
+127.0.0.1   devolutions.cloud
+127.0.0.1   www.devolutions.net
+
+# Block ShowMyPC
+127.0.0.1   showmypc.com
+127.0.0.1   www.showmypc.com
+127.0.0.1   login.showmypc.com
+
+# Block NoMachine
+127.0.0.1   nomachine.com
+127.0.0.1   www.nomachine.com
+127.0.0.1   cloud.nomachine.com
+
+# Block Bomgar (BeyondTrust)
+127.0.0.1   bomgar.com
+127.0.0.1   www.bomgar.com
+127.0.0.1   access.bomgar.com
+127.0.0.1   software.bomgar.com
+127.0.0.1   services.bomgar.com
+127.0.0.1   support.bomgar.com
+127.0.0.1   cloud.bomgar.com
+
+# Block Alpemix
+127.0.0.1   alpemix.com
+127.0.0.1   www.alpemix.com
+127.0.0.1   server.alpemix.com
+
+# Block LiteManager
+127.0.0.1   litemanager.com
+127.0.0.1   www.litemanager.com
+127.0.0.1   cloud.litemanager.com
+
+# Block Termius
+127.0.0.1   termius.com
+127.0.0.1   www.termius.com
+
+# Block Remotix
+127.0.0.1   remotix.com
+127.0.0.1   www.remotix.com
+127.0.0.1   api.remotix.com
+127.0.0.1   connect.remotix.com
